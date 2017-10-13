@@ -3,6 +3,10 @@
 void main()
 {
 		cout<<"This is User\n";
+
 	cout<<"This is User\n";
+
+	cout<<"This is new user\n";
+
 		getch();
 }
