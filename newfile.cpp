@@ -8,5 +8,6 @@ void main()
 
 	cout<<"This is new user\n";
 	cout<<"Thisislatest\n";
+	cout<<"But I'm new\n077";
 		getch();
 }
